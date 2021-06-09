@@ -27,7 +27,7 @@ cycler==0.10.0
 dataclasses==0.6
 decorator==4.4.1
 defusedxml==0.6.0
-Django==2.2.7
+Django==2.2.22
 docutils==0.14
 docx2txt==0.8
 ecdsa==0.14.1
