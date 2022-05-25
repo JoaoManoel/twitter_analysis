@@ -100,7 +100,7 @@ pycparser==2.19
 PyDispatcher==2.0.5
 Pygments==2.4.2
 PyHamcrest==1.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pynndescent==0.3.3
 pyOpenSSL==19.0.0
 pyparsing==2.4.5
